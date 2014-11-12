@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TextureEditorMenu</class>
+ <widget class="QTabWidget" name="TextureEditorMenu">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>300</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TabWidget</string>
+  </property>
+  <property name="currentIndex">
+   <number>3</number>
+  </property>
+  <widget class="QWidget" name="paint">
+   <attribute name="title">
+    <string>Zeichnen</string>
+   </attribute>
+  </widget>
+  <widget class="QWidget" name="trans">
+   <attribute name="title">
+    <string>Transparenz</string>
+   </attribute>
+  </widget>
+  <widget class="QWidget" name="cut">
+   <attribute name="title">
+    <string>Zuschneiden</string>
+   </attribute>
+  </widget>
+  <widget class="QWidget" name="clip">
+   <attribute name="title">
+    <string>Einhängen</string>
+   </attribute>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,221 @@
+<!DOCTYPE QGLVIEWER>
+<QGLViewer version="2.3.4">
+  <State stereo="false" cameraMode="revolve">
+    <foregroundColor red="180" blue="180" green="180"/>
+    <backgroundColor red="51" blue="51" green="51"/>
+  </State>
+  <Display axisIsDrawn="false" gridIsDrawn="false" FPSIsDisplayed="false" cameraIsEdited="false"/>
+  <Geometry fullScreen="false" width="1600" posX="1440" height="823" posY="24"/>
+  <Camera>
+    <Parameters fieldOfView="0.785398" sceneRadius="50" Type="PERSPECTIVE" zNearCoefficient="0.005" orthoCoef="1.98109" zClippingCoefficient="5">
+      <SceneCenter x="1070" y="110" z="2070"/>
+    </Parameters>
+    <Stereo distToScreen="0.5" focusDistance="120.711" physScreenWidth="0.4" IODist="0.062"/>
+    <ManipulatedCameraFrame>
+      <position x="1072.14" y="108.996" z="2075.08"/>
+      <orientation q0="-0.160501" q1="0.436761" q2="0.0108032" q3="-0.885078"/>
+      <ManipulatedParameters transSens="1" rotSens="1" wheelSens="1" spinSens="0.3"/>
+      <ManipulatedCameraParameters flySpeed="0.5">
+        <flyUpVector x="0" y="1" z="0"/>
+      </ManipulatedCameraParameters>
+    </ManipulatedCameraFrame>
+    <KeyFrameInterpolator nbKF="49" speed="1" period="40" loop="false" index="3" time="48" closedPath="false">
+      <KeyFrame index="0" time="0">
+        <position x="1080.83" y="120.661" z="2074.39"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="1" time="1">
+        <position x="1080.37" y="119.602" z="2074.43"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="2" time="2">
+        <position x="1079.93" y="118.678" z="2074.45"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="3" time="3">
+        <position x="1079.53" y="117.809" z="2074.48"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="4" time="4">
+        <position x="1079.12" y="116.94" z="2074.5"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="5" time="5">
+        <position x="1078.71" y="116.071" z="2074.53"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="6" time="6">
+        <position x="1078.31" y="115.202" z="2074.55"/>
+        <orientation q0="0.390266" q1="-0.600737" q2="-0.368739" q3="-0.592316"/>
+      </KeyFrame>
+      <KeyFrame index="7" time="7">
+        <position x="1078.87" y="114.886" z="2074.54"/>
+        <orientation q0="0.360287" q1="-0.620359" q2="-0.33003" q3="-0.613538"/>
+      </KeyFrame>
+      <KeyFrame index="8" time="8">
+        <position x="1079.51" y="114.42" z="2074.52"/>
+        <orientation q0="0.32322" q1="-0.641553" q2="-0.280651" q3="-0.636533"/>
+      </KeyFrame>
+      <KeyFrame index="9" time="9">
+        <position x="1079.84" y="114.118" z="2074.56"/>
+        <orientation q0="0.293306" q1="-0.653677" q2="-0.261372" q3="-0.646809"/>
+      </KeyFrame>
+      <KeyFrame index="10" time="10">
+        <position x="1080.19" y="113.724" z="2074.65"/>
+        <orientation q0="0.257052" q1="-0.662618" q2="-0.237897" q3="-0.662017"/>
+      </KeyFrame>
+      <KeyFrame index="11" time="11">
+        <position x="1080.68" y="113.045" z="2074.69"/>
+        <orientation q0="0.204445" q1="-0.677856" q2="-0.193685" q3="-0.679117"/>
+      </KeyFrame>
+      <KeyFrame index="12" time="12">
+        <position x="1080.94" y="112.572" z="2074.72"/>
+        <orientation q0="0.170384" q1="-0.685577" q2="-0.164144" q3="-0.688484"/>
+      </KeyFrame>
+      <KeyFrame index="13" time="13">
+        <position x="1081.28" y="111.737" z="2074.74"/>
+        <orientation q0="0.115362" q1="-0.695695" q2="-0.111184" q3="-0.700242"/>
+      </KeyFrame>
+      <KeyFrame index="14" time="14">
+        <position x="1081.45" y="111.038" z="2074.73"/>
+        <orientation q0="0.0708911" q1="-0.702288" q2="-0.0682727" q3="-0.705056"/>
+      </KeyFrame>
+      <KeyFrame index="15" time="15">
+        <position x="1081.53" y="110.395" z="2074.73"/>
+        <orientation q0="0.0316264" q1="-0.705102" q2="-0.0282811" q3="-0.707835"/>
+      </KeyFrame>
+      <KeyFrame index="16" time="16">
+        <position x="1081.54" y="109.733" z="2074.74"/>
+        <orientation q0="-0.00829171" q1="-0.704659" q2="0.0130862" q3="-0.709377"/>
+      </KeyFrame>
+      <KeyFrame index="17" time="17">
+        <position x="1081.46" y="109.1" z="2074.84"/>
+        <orientation q0="-0.0454129" q1="-0.697292" q2="0.054321" q3="-0.713282"/>
+      </KeyFrame>
+      <KeyFrame index="18" time="18">
+        <position x="1081.36" y="108.665" z="2074.95"/>
+        <orientation q0="-0.0699938" q1="-0.688238" q2="0.0847225" q3="-0.717113"/>
+      </KeyFrame>
+      <KeyFrame index="19" time="19">
+        <position x="1081.1" y="107.864" z="2074.99"/>
+        <orientation q0="-0.119829" q1="-0.678808" q2="0.137402" q3="-0.711323"/>
+      </KeyFrame>
+      <KeyFrame index="20" time="20">
+        <position x="1080.83" y="107.254" z="2074.89"/>
+        <orientation q0="-0.159847" q1="-0.676874" q2="0.17799" q3="-0.69614"/>
+      </KeyFrame>
+      <KeyFrame index="21" time="21">
+        <position x="1080.83" y="107.254" z="2074.89"/>
+        <orientation q0="-0.159847" q1="-0.676874" q2="0.17799" q3="-0.69614"/>
+      </KeyFrame>
+      <KeyFrame index="22" time="22">
+        <position x="1080.79" y="107.604" z="2075.4"/>
+        <orientation q0="-0.136162" q1="-0.647968" q2="0.164739" q3="-0.731067"/>
+      </KeyFrame>
+      <KeyFrame index="23" time="23">
+        <position x="1080.61" y="107.773" z="2075.88"/>
+        <orientation q0="-0.130114" q1="-0.61494" q2="0.152325" q3="-0.762703"/>
+      </KeyFrame>
+      <KeyFrame index="24" time="24">
+        <position x="1080.04" y="108.076" z="2076.87"/>
+        <orientation q0="-0.118628" q1="-0.53656" q2="0.134866" q3="-0.824525"/>
+      </KeyFrame>
+      <KeyFrame index="25" time="25">
+        <position x="1079" y="108.37" z="2077.89"/>
+        <orientation q0="-0.108312" q1="-0.428839" q2="0.124195" q3="-0.888224"/>
+      </KeyFrame>
+      <KeyFrame index="26" time="26">
+        <position x="1078.35" y="108.564" z="2078.33"/>
+        <orientation q0="-0.100164" q1="-0.36796" q2="0.115258" q3="-0.917218"/>
+      </KeyFrame>
+      <KeyFrame index="27" time="27">
+        <position x="1077.48" y="108.822" z="2078.73"/>
+        <orientation q0="-0.087646" q1="-0.291103" q2="0.100263" q3="-0.947378"/>
+      </KeyFrame>
+      <KeyFrame index="28" time="28">
+        <position x="1076.78" y="108.98" z="2078.93"/>
+        <orientation q0="-0.0803608" q1="-0.23116" q2="0.089849" q3="-0.965419"/>
+      </KeyFrame>
+      <KeyFrame index="29" time="29">
+        <position x="1076" y="108.941" z="2079.01"/>
+        <orientation q0="-0.0891252" q1="-0.167888" q2="0.0833783" q3="-0.978222"/>
+      </KeyFrame>
+      <KeyFrame index="30" time="30">
+        <position x="1075.83" y="108.934" z="2079.03"/>
+        <orientation q0="-0.0906217" q1="-0.153833" q2="0.0783226" q3="-0.98081"/>
+      </KeyFrame>
+      <KeyFrame index="31" time="31">
+        <position x="1075.11" y="108.841" z="2079.02"/>
+        <orientation q0="-0.105684" q1="-0.0971369" q2="0.094278" q3="-0.985143"/>
+      </KeyFrame>
+      <KeyFrame index="32" time="32">
+        <position x="1074.63" y="109.112" z="2079.02"/>
+        <orientation q0="-0.08621" q1="-0.055688" q2="0.0867908" q3="-0.990926"/>
+      </KeyFrame>
+      <KeyFrame index="33" time="33">
+        <position x="1073.95" y="109.292" z="2078.91"/>
+        <orientation q0="-0.0763446" q1="0.00232651" q2="0.083687" q3="-0.993561"/>
+      </KeyFrame>
+      <KeyFrame index="34" time="34">
+        <position x="1073.35" y="109.366" z="2078.73"/>
+        <orientation q0="-0.0746517" q1="0.0541096" q2="0.0808479" q3="-0.992453"/>
+      </KeyFrame>
+      <KeyFrame index="35" time="35">
+        <position x="1072.85" y="109.416" z="2078.3"/>
+        <orientation q0="-0.0700957" q1="0.13724" q2="0.0702307" q3="-0.985555"/>
+      </KeyFrame>
+      <KeyFrame index="36" time="36">
+        <position x="1072.42" y="109.43" z="2077.79"/>
+        <orientation q0="-0.0671442" q1="0.220784" q2="0.0570173" q3="-0.971337"/>
+      </KeyFrame>
+      <KeyFrame index="37" time="37">
+        <position x="1072.66" y="109.448" z="2077.91"/>
+        <orientation q0="-0.0671442" q1="0.220784" q2="0.0570173" q3="-0.971337"/>
+      </KeyFrame>
+      <KeyFrame index="38" time="38">
+        <position x="1072.25" y="109.347" z="2078.77"/>
+        <orientation q0="-0.0671442" q1="0.220784" q2="0.0570173" q3="-0.971337"/>
+      </KeyFrame>
+      <KeyFrame index="39" time="39">
+        <position x="1071.72" y="109.464" z="2078.13"/>
+        <orientation q0="-0.0584202" q1="0.30602" q2="0.05369" q3="-0.948713"/>
+      </KeyFrame>
+      <KeyFrame index="40" time="40">
+        <position x="1071.36" y="109.348" z="2077.44"/>
+        <orientation q0="-0.0742731" q1="0.380389" q2="0.0435209" q3="-0.920811"/>
+      </KeyFrame>
+      <KeyFrame index="41" time="41">
+        <position x="1071.22" y="109.366" z="2077.11"/>
+        <orientation q0="-0.0750463" q1="0.415377" q2="0.0425393" q3="-0.90555"/>
+      </KeyFrame>
+      <KeyFrame index="42" time="42">
+        <position x="1071.22" y="109.366" z="2077.11"/>
+        <orientation q0="-0.0750463" q1="0.415377" q2="0.0425393" q3="-0.90555"/>
+      </KeyFrame>
+      <KeyFrame index="43" time="43">
+        <position x="1071.05" y="109.366" z="2076.97"/>
+        <orientation q0="-0.0761008" q1="0.434044" q2="0.0417561" q3="-0.8967"/>
+      </KeyFrame>
+      <KeyFrame index="44" time="44">
+        <position x="1070.77" y="109.413" z="2076.62"/>
+        <orientation q0="-0.0761008" q1="0.434044" q2="0.0417561" q3="-0.8967"/>
+      </KeyFrame>
+      <KeyFrame index="45" time="45">
+        <position x="1070.61" y="109.369" z="2076.4"/>
+        <orientation q0="-0.0761008" q1="0.434044" q2="0.0417561" q3="-0.8967"/>
+      </KeyFrame>
+      <KeyFrame index="46" time="46">
+        <position x="1071.36" y="109.134" z="2075.73"/>
+        <orientation q0="-0.114094" q1="0.436203" q2="0.0280042" q3="-0.892146"/>
+      </KeyFrame>
+      <KeyFrame index="47" time="47">
+        <position x="1071.39" y="108.733" z="2075.62"/>
+        <orientation q0="-0.160501" q1="0.436761" q2="0.0108032" q3="-0.885078"/>
+      </KeyFrame>
+      <KeyFrame index="48" time="48">
+        <position x="1072.14" y="108.996" z="2075.08"/>
+        <orientation q0="-0.160501" q1="0.436761" q2="0.0108032" q3="-0.885078"/>
+      </KeyFrame>
+    </KeyFrameInterpolator>
+  </Camera>
+</QGLViewer>
